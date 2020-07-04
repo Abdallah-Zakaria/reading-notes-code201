@@ -89,3 +89,30 @@ When the <aside> element is used outside of an <article> element, it acts as a c
 The <section> element groups related content together, and typically each section would have its own heading.
 If you have a page with a long article, the <section> element can be used to split the article up into separate sections.
 The <section> element should not be used as a wrapper for the entire page unless the page only contains one distinct piece of content.
+## Process & design
+Every website should be designed for the
+target audience, you must ask your self some question befor start your design your web, such as :
+- what the gender customer or visitor ?
+- there age ?
+- culture came from ?
+- Frequency visits ?
+- time set on it ?
+
+And if it was B to B there is different questions, such as:
+- what the purpous from the visit ?
+- siz of it ?
+- the budget they have ?
+###### WIREFRAMES
+it's not logical to start coding you site and you dont have a simple sketch shows the final interface, so start by creating a wireframe to inform and hierarchy design.
+
+![WIREFRAME](https://www.edrawsoft.com/images/chart/wireframe.png)
+###### Design navigation
+Site navigation not only helps people find where they want to go, but also helps them understand what your site is about and how it is organized. 
+Three principles to get good navigation.
+- Concise: the navigation should be quick and easy to read. It is a good idea to try to limit the number of options in a menu to no more than eight links. 
+- Clear: choose single descriptive words for each link rather than phrases,be able to predict the kind of information that they will find on the page before clicking on the link.
+- Selective :The primary navigation should only reflect the sections or content of the site.
+- Context :ets the user know where they are in the website at that moment.
+- Interactive :Each link should be big enough to click on and the appearance of the link should change when the user hovers over each item or clicks on it. It should also be visually distinct from other content on the page.
+
+A large site may have primary, secondary and even tertiary navigation. Primary navigation often appears across the top of the site from left to right, or down the left hand side of the page. Secondary navigation could be under the primary navigation or down the side of the page
