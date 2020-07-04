@@ -45,7 +45,7 @@ Some elements will always appear to start on a new line in the browser window. T
 Example of block elements <h1>, <p> and <li>.
 ###### Inline elements
 Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements.
-Examples of inline elements are <a>, <b>, <em> and <img>.
+Examples of inline elements are \<a>, <b>, <em> and <img>.\
 
 ###### Grouping text & elements in a block
 __<div>__ This element allows you to group a set of elements together in one block-level box.
@@ -67,7 +67,25 @@ The <meta> element is an empty element so it does not have a closing tag.
 Therefore, if you want these characters to appear on your page you need to use what are termed "escape" characters.
 For example:
 - < = &lt
-- > = &gt
+- \ > \ = &gt
 - & = &amp
 - " = &quot
-
+## HTML5 Layout
+HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find in them. 
+using HTML5 layout makes the code easier to follow, search engines might place more weight on the content.
+###### Header & footer
+The __<header>__ and __<footer>__ elements can be used for:
+- The main header or footer that appears at the top or bottom of every page on the site. ( <header> element used to contain the site name and the main navigation)
+- A header or footer for an individual <article> or <section> within the page. ( <footer> element contains copyright information, along with links to the privacy policy and terms and conditions.)
+###### Nav
+The <nav> element is used to contain the major navigational blocks on the site such as the primary site navigation.
+###### Article
+The <article> element acts as a container for any section of a page that could stand alone.
+The <article> elements can even be nested inside each other.
+###### Aside
+When the <aside> element is used inside an <article> element, it should contain information that is related to the article but not essential to its overall meaning. 
+When the <aside> element is used outside of an <article> element, it acts as a container for content that is related to the entire page. 
+###### Section
+The <section> element groups related content together, and typically each section would have its own heading.
+If you have a page with a long article, the <section> element can be used to split the article up into separate sections.
+The <section> element should not be used as a wrapper for the entire page unless the page only contains one distinct piece of content.
