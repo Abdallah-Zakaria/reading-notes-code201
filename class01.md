@@ -29,4 +29,45 @@ here this is a opening tag and the closing tag like this </p> will set at the la
 Attributes provide additional information about the contents of an element. They appear on the opening tag of the element and are made up of two parts: a name and a value, separated by an equals sign.
 Code sample : <p lang="fr">Paragraphe en Français</p> which the lang is the name of the attribute and the "fr" is the value of the attribute.
 
+## Extra markup
+###### Comments IN HTML
+Comment tage <!-- --> If you want to add a comment to your code that will not be visible in the user's browser, you can add the text between these characters.
+comments to your code because, no matter how familiar you are with the page at the time of writing it, when you come back to it later or if someone else needs to look at the code comments will make it much easier to understand.
+
+###### ID Attribute
+Every HTML element can carry the id attribute. It is used to uniquely identify that element from other elements on the page.
+It is important that no two elements on the same page have the same value for their id attributes otherwise the value is no longer unique.
+###### CLASS Attribute
+Every HTML element can also carry a class attribute Sometimes, rather than uniquely identifying one element within a document, you will want a way to identify several elements as being different from the other elements on the page. 
+ 
+###### Block elements
+Some elements will always appear to start on a new line in the browser window. These are known as block elements.
+Example of block elements <h1>, <p> and <li>.
+###### Inline elements
+Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements.
+Examples of inline elements are <a>, <b>, <em> and <img>.
+
+###### Grouping text & elements in a block
+__<div>__ This element allows you to group a set of elements together in one block-level box.
+###### Grouping text & elements in a inline
+__<span>__ element acts like an inline equivalent of the <div> element. It is used to either:
+- Contain a section of text
+-  Contain a number of inline elements
+###### Iframe
+Is a littel window that has been cut into your page, and that window can see another page from it, an ifram created using the <ifram> element.
+There are a few attributes that you will need to know to use it.
+- src : this attribute specifes the URL of the page to show it in the frame.
+- height : this attribute specifes the height of the iframe.
+- width : this attribute specifes the width of the iframe.
+###### Meta
+The <meta> element lives inside the <head> element and contains information about that web page.
+purposes of it such as telling search engines about your page.
+The <meta> element is an empty element so it does not have a closing tag. 
+###### Escape characters
+Therefore, if you want these characters to appear on your page you need to use what are termed "escape" characters.
+For example:
+- < = &lt
+- > = &gt
+- & = &amp
+- " = &quot
 
