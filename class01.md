@@ -115,4 +115,33 @@ Three principles to get good navigation.
 - Context :ets the user know where they are in the website at that moment.
 - Interactive :Each link should be big enough to click on and the appearance of the link should change when the user hovers over each item or clicks on it. It should also be visually distinct from other content on the page.
 
-A large site may have primary, secondary and even tertiary navigation. Primary navigation often appears across the top of the site from left to right, or down the left hand side of the page. Secondary navigation could be under the primary navigation or down the side of the page
+A large site may have primary, secondary and even tertiary navigation. Primary navigation often appears across the top of the site from left to right, or down the left hand side of the page. Secondary navigation could be under the primary navigation or down the side of the page.
+
+
+## The ABC of programing
+Javascript allows you to make web pages more interactive by accessing and modifying the content and markup used in a web page while it being viewed in the browser.
+
+- ACCESS CONTENT : You can use JavaScript to select any element, attribute, or text from an HTML page. 
+- MODIFY CONTENT : You can use JavaScript to add elements, attributes, and text to the page, or remove them.
+
+PROGRAM RULES  : You can specify a set of steps for the browser to follow which allows it to access or change the content of a page.
+
+REACT TO EVENTS : You can specify that a script should run when a specific event has occurred.
+
+###### HTML and CSS quick review
+- __HTML__ elements its to describe the structure of the page, its consists of opening and closing tag, in the opening tag there is a attribute name and attribute value.
+- __CSS__ elements consists from selector and seclaration which include property name and property value.
+
+###### What is a script and how do i create one
+A script is a series of instructions that a computer can follow to achieve a goal. 
+A browser may use different parts of the script depending on how the user inteacts with web page.
+Scripts can run different section of the code in response to the situation around them.
+To write a script  you need to first state your goal and then list the tasks that need to be completed in order to achieve it. 
+Start with the big picture of what you want to achieve, and break that down into smaller steps. 
+- define the goal
+- Design the script
+- code each step
+
+__learning any new language, you need to get to grips with the:__
+- __Vocabulary: The words that computers understand__
+- __Syntax: How you put those words together to create instructions computers can follow__
