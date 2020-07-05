@@ -1,12 +1,10 @@
 # Read02
 ## Text
 ###### Headings
-HTML has six levels of headings:
-<h1> is used for main headings <h2> is used for subheadings and so on to <h6>.
-
-###### Paragraphs
-To create a paragraph, surround the words that make up the paragraph with an opening <p> tag and closing </p> tag, a browser will show each paragraph on a new line.
-
+html has six levels of headings:
+h1  is used for main headings h2 is used for subheadings and so on to h6.
+ 
+ 
 ###### Bold and Italic
 - <b> By enclosing words in the tags <b> and </b> we can make characters appear bold, represents a section of text that would be presented in a visually different way.
 - <i> By enclosing words in the tags <i> and </i> we can make characters appear itali, The <i> element also represents a section of text that would be said in a different way from surrounding content.
