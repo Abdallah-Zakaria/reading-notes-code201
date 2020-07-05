@@ -8,16 +8,16 @@ HTML has six levels of headings:
 To create a paragraph, surround the words that make up the paragraph with an opening <p> tag and closing </p> tag, a browser will show each paragraph on a new line.
 
 ###### Bold and Italic
-<b> By enclosing words in the tags <b> and </b> we can make characters appear bold, represents a section of text that would be presented in a visually different way.
-<i> By enclosing words in the tags <i> and </i> we can make characters appear itali, The <i> element also represents a section of text that would be said in a different way from surrounding content.
+- <b> By enclosing words in the tags <b> and </b> we can make characters appear bold, represents a section of text that would be presented in a visually different way.
+- <i> By enclosing words in the tags <i> and </i> we can make characters appear itali, The <i> element also represents a section of text that would be said in a different way from surrounding content.
 
 ###### Superscript & Subscrip
-<sup> Example: mathematical concepts like raising a number to a power such as 2^2.
-<sub> Example : It is commonly used with foot notes or chemical formulas such as H20.
+- <sup> Example: mathematical concepts like raising a number to a power such as 2^2.
+- <sub> Example : It is commonly used with foot notes or chemical formulas such as H20.
 
 ###### Line Breaks & Horizontal Rules
-<br />  to add a line break inside the middle of a paragraph you can use the line break tag <br />.
-<hr /> you can add a horizontal rule between sections
+- <br />  to add a line break inside the middle of a paragraph you can use the line break tag <br />.
+- <hr /> you can add a horizontal rule between sections
 using the <hr /> tag, To create a break between themes.
 
 ## Introducing CSS
@@ -60,9 +60,9 @@ There is three main data type :
 - boolean data type : Boolean data types can have one of two values: true or false. 
 
 ###### Rule for naming variables
-1. The name must begin witha letter, dollar sign ($),or an underscore (_). It must not start with a number. 
-1. you must not use a dash(-) or a period (.) in a variable name. 
-1. You cannot use keywords or reserved words.
-1. All variables are case sensitive, as using different cases.
-1.  describes the kind of information that the variable stores. 
-1. If your variable name is made up of more than one word, use a capital letter for the first letter of every word after the first word. 
+- The name must begin witha letter, dollar sign ($),or an underscore (_). It must not start with a number. 
+- you must not use a dash(-) or a period (.) in a variable name. 
+- You cannot use keywords or reserved words.
+- All variables are case sensitive, as using different cases.
+-  describes the kind of information that the variable stores. 
+- If your variable name is made up of more than one word, use a capital letter for the first letter of every word after the first word. 
