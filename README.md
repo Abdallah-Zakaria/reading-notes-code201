@@ -6,7 +6,7 @@ In this website, you can find all my 201 reading notes.
 Read No.  | Link
 ----------|-----------
 Read 1    | [Link 1 ](https://abdallah-zakaria.github.io/reading-notes/class01)
-Read 2    | [Link 2 ]()
+Read 2    | [Link 2 ](https://abdallah-zakaria.github.io/reading-notes/class02)
 Read 3    | [Link 3 ]()
 Read 4    | [Link 4 ]()
 Read 5    | [Link 5 ]()
