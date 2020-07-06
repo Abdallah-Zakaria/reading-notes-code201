@@ -20,10 +20,10 @@ HTML provides us with three different list types:
 
 ###### Change inline/block display
 - inline: This causes a block-level element to act like an inline element.
-- block : This causes an inline element to act like a block-level element.
+- block : This causes an inline element to act like a block level element.
 - inline-block : This causes a block-level element to flow like an inline element.
 - none : This hides an element from the page.
 
 ## If..else statements
 #### Switch statements
-A switch statement starts with a variable called the switch value. Each case indicates a possible value for this variable and the code that should run if the variable matches that value . 
+A switch statement starts with a variable called the switch value. Each case indicates a possible value for this variable and the code that should run if the variable matches that value. 
