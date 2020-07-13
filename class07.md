@@ -17,4 +17,4 @@ There are three elements that help distinguish between the main content of the t
 ### Constructor 
 Sometimes you will want several objects to represent similar things.
 Object constructors can use a function as a template for creating objects. First, create the template with the object's properties and methods. 
-![NodeTree](Images/Read07.JPG)
+![NodeTree](Images/class07.JPG)
